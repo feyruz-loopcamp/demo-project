@@ -21,6 +21,7 @@
             <version>7.3.2</version>
         </dependency>
 
+        <!--        JUnite 4  DEPENDENCY-->
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
