@@ -33,7 +33,7 @@ public class Driver {
                 browser = ConfigurationReader.getProperty("browser");
             } else {
                 //browser = System.getProperty("BROWSER");
-                browser = System.getenv("browser")
+                browser = System.getenv("browser");
             }
             System.out.println("Browser: " + browser);
             switch (browser) {
